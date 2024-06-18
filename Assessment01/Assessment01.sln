@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment01", "Assessment01\Assessment01.csproj", "{41553C85-8145-4970-8E65-0404E8E77456}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9DD09E8-F80D-4070-AF0D-D99A07D796F5}"
+	ProjectSection(SolutionItems) = preProject
+		..\Assignment614\Assignment614\Classes\Course.cs = ..\Assignment614\Assignment614\Classes\Course.cs
+		..\Assignment614\Assignment614\Classes\Enrolment.cs = ..\Assignment614\Assignment614\Classes\Enrolment.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41553C85-8145-4970-8E65-0404E8E77456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41553C85-8145-4970-8E65-0404E8E77456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41553C85-8145-4970-8E65-0404E8E77456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41553C85-8145-4970-8E65-0404E8E77456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {051176CB-AA80-44FE-92C3-954592A84AC6}
+	EndGlobalSection
+EndGlobal
